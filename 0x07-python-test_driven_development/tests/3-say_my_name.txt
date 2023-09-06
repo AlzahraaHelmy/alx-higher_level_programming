@@ -1,3 +1,5 @@
+'''
+# Import the required function
 >>> say_my_name = __import__('3-say_my_name').say_my_name
 
 
@@ -26,3 +28,5 @@ Check missing arguments
 Traceback (most recent call last):
 	...
 TypeError: say_my_name() missing 1 required positional argument: 'first_name'
+
+'''
