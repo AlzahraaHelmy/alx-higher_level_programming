@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines functoin a JSON file-reading """
+"""This module defines functoin a JSON file-reading."""
 import json
 
 
