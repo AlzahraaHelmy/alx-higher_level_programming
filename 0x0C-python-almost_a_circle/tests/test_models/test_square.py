@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Defines for models/square.py.
 
 Unittest classes:

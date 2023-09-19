@@ -20,6 +20,7 @@ from models.base import Base
 from models.rectangle import Rectangle
 
 
+
 class TestRectangle_instantiation(unittest.TestCase):
     """Unittests for testing of the Rectangle class."""
 
