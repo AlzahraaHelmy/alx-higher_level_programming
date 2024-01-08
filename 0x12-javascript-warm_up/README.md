@@ -1,1 +1,1 @@
-javascript
+first javascript project
